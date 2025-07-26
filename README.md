@@ -1,16 +1,63 @@
-## Hi there 👋
+# Stopped coding those stuff. Have a nice life everyone👋
 
-<!--
-**ugopugo/ugopugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+ugopugo;Game Cheat+Source+Leaker"></a></p>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ugopugo&theme=discord"</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-----
+
+```py
+class Attributes(ugopugo):
+    def __init__(self) -> None:
+        super().__init__()
+        
+    @staticmethod
+    def contact() -> str:
+        return "No contact information provided."
+
+    @staticmethod
+    def life() -> tuple:
+        age = None
+        langs = ['Dutch', 'English']
+        return langs, age
+
+    @staticmethod
+    def coding() -> tuple:
+        learning = "C++"
+        specialities = 'automation'
+        environment = 'vscode'
+        return learning, specialities, environment
+ ```
+
+<p align="center">⭐My Stats</p>
+
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=ugopugo&theme=shadow-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D"/>
+
+<p align="center">
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ugopugo&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugopugo&theme=modern-lilac"/>
+<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+
+ 
+----- 
+Tools
+
+![]https://skillicons.dev/icons?i=cpp,cs,c) (*Learning*)
+
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+-----
+<p align="center"> 
+  Visits:<br>
+  <img src="https://komarev.com/ghpvc/?username=ugopugo&style=for-the-badge"/>
+</p>
+
+
+* If you see this have a nice day :p
+
+
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+

@@ -47,7 +47,7 @@ Tools
 
 ![](https://skillicons.dev/icons?i=cpp,cs,c) (*Learning*)
 
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-0078d7.svg?style=for-the-badge&logo=Visual-Studio-Community&logoColor=white)
 
 -----
 <p align="center"> 

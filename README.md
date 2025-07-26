@@ -1,6 +1,6 @@
 # Stopped coding those stuff. Have a nice life everyone👋
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+ugopugo;Game Cheat+Source+Leaker"></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+i'm+ugopugo;I'm+a+C%2B%2B+source+code+leaker)](https://git.io/typing-svg"></a></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ugopugo&theme=discord"</a></p>
 

@@ -1,6 +1,6 @@
 # Stopped coding those stuff. Have a nice life everyone👋
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+i'm+ugopugo;I'm+a+C%2B%2B+source+code+leaker"></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+i'm+ugopugo;Learning+C%2B%2B+%7C+Leaking+Cheat+Sources"></a></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ugopugo&theme=discord"</a></p>
 
